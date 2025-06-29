@@ -51,5 +51,4 @@ Este portfólio foi criado como parte da disciplina de Desenvolvimento Web da gr
 │   └── style.css
 ├── js/
 │   └── script.js
-└── assets/
-    └── imagens, ícones e recursos visuais
+└── imagem
